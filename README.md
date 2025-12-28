@@ -264,7 +264,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 # Output:
 
-![c](<WhatsApp Image 2025-12-28 at 6.00.35 PM (2).jpeg>)
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.35 PM (2).jpeg>)
 
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
