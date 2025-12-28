@@ -15,7 +15,7 @@
   
   The program should display the average marks up to two decimal places and the corresponding grade. 
   
-# Date : 
+# Date : 20/11/2025
 # Aim:
  To build a C program that receives inputs for a student’s marks in three subjects, calculates the average, and determines the grade using nested if-else statements with safe floating-point comparisons.
 # Algorithm:
@@ -56,7 +56,13 @@
 ### Step 11:
   Stop
 # Program:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.32 PM.jpeg>)
+
 # Output:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.32 PM (1).jpeg>)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -64,7 +70,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:7
   Develop a C program to display the multiplication table of a given number (15) up to 10.
-# Date : 
+# Date : 20/11/2025
 # Aim:
  To develop a C program that prints the multiplication table of the number 15 up to 10 using a for loop.
 # Algorithm:
@@ -88,7 +94,13 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.33 PM.jpeg>)
+
 # Output:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.33 PM (1).jpeg>)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -96,7 +108,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:8
   Develop a C program to check whether a given number is prime or not.
-# Date : 
+# Date : 20/11/2025
 # Aim:
  To develop a C program that determines whether an input number is a prime number using a while loop.
 # Algorithm:
@@ -131,7 +143,15 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.33 PM (2).jpeg>)
+
 # Output:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.34 PM.jpeg>)
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.34 PM (1).jpeg>)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -147,7 +167,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  4   2  
  54321
  ```
-# Date : 
+# Date : 20/11/2025
 # Aim:
  To build a C program that prints the required numeric pattern for a given value of n using nested loops.
 # Algorithm:
@@ -179,7 +199,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.34 PM (2).jpeg>)
+
 # Output:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.35 PM.jpeg>)
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +258,14 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+# Program:
+
+![alt text](<WhatsApp Image 2025-12-28 at 6.00.35 PM (1).jpeg>)
+
+# Output:
+
+![c](<WhatsApp Image 2025-12-28 at 6.00.35 PM (2).jpeg>)
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
